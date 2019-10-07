@@ -1,0 +1,35 @@
+.center-text {
+    color: royalblue
+}
+
+.input {
+    padding: .0em .0em;
+    font-size: 18px
+}
+
+.todoinput {
+    position: absolute;
+    left: 25%;
+    top: 82px
+}
+.listscollection {
+    width: 15%;
+    position: absolute;
+    top: 130px
+}
+
+.todoscollection {
+    width: 15%;
+    position: absolute;
+    left: 25%;
+    top: 130px
+}
+
+.listitems {
+    position: absolute;
+    top: -12px
+}
+.todolist {
+    position: absolute;
+    top: -12px
+}
